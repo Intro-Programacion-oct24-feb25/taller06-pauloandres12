@@ -1,4 +1,5 @@
 # taller06
+# Integrantes: Paulo Bustamante y Josue Naula
 
 ### Problema01
 
